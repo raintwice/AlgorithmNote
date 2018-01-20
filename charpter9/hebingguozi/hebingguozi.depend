@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490167420 source:d:\exercise\algorithmnote\charpter9\hebingguozi\main.cpp
+	<iostream>
+	<queue>
+	<cstdio>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490087870 source:d:\exercise\algorithmnote\charpter8\maze\main.cpp
+	<iostream>
+	<cstring>
+	<queue>
+	<cstdio>
+
